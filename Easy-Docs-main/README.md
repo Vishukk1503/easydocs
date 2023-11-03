@@ -1,7 +1,6 @@
 # EasyDocs
-![Logo](dependencies/black-bg-logo.gif)
 
-Team Agnes presents: EasyDocs - A student friendly Machine learning application like no other.
+EasyDocs - A student friendly Machine learning application like no other.
 A convenient app for all your study needs: from document/text summarization to text-to-speech to OCR, we've got you covered ;)
 
 ## Problem Statement
@@ -28,7 +27,7 @@ Choose from 6 unique components:
 ## Link to EasyDocs
 
 EasyDocs has been deployed for commercial usage via Streamlit sharing and the working web application can be found here:
-https://share.streamlit.io/adityashukzy/easy-docs/main/st_app.py
+
 
 ## Challenges Faced
 - Facing issues with how accurately content/text is captured by OCR and pdf file parser. This leads to certain erroneous words getting included in the text output and audiobook respectively.
@@ -37,26 +36,8 @@ https://share.streamlit.io/adityashukzy/easy-docs/main/st_app.py
 
 - Getting a meticulous summary of the uploaded document/URL isn't plausible as the type of summary generation used in EasyDocs is the extractive kind which gives importance to the most relevant sentences present unlike the abstractive summary which generates the same from scratch and without any reference to the pre-existing document or URL.
 
-## Contributors
 
 
-<table align="center">
-<tr align="center">
-
-
-<td width:25%>
-Aditya Shukla
-
-<p align="center">
-<img src = "https://avatars1.githubusercontent.com/u/20011207?s=400&u=7570f3915eca3bcd55cd72c60038e4f68965db4b&v=4"  height="120" alt="Aditya Shukla">
-</p>
-<p align="center">
-<a href = "https://github.com/adityashukzy"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/aditya-shukla-975940188/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
 
 
 <td width:25%>
@@ -76,10 +57,7 @@ Pooja Ravi
 
 </table>
 
-## License
-MIT © Aditya Shukla
 
-This project is licensed under the MIT License - see the [License](LICENSE) file for details
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
