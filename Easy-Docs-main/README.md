@@ -24,10 +24,6 @@ Choose from 6 unique components:
 - Ooof! Too much information about the app right? Worry not! EzPz, the beloved EasyDocs chatbot, comes to the rescue with clear cut instructions as to what each module is used for and how they all work.
 
 
-## Link to EasyDocs
-
-EasyDocs has been deployed for commercial usage via Streamlit sharing and the working web application can be found here:
-
 
 ## Challenges Faced
 - Facing issues with how accurately content/text is captured by OCR and pdf file parser. This leads to certain erroneous words getting included in the text output and audiobook respectively.
